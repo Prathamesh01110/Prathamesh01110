@@ -2,9 +2,7 @@
 <h3 align="center">Passionate Web Developer from India</h3>
 
 <p align="center">
-  <img width="500" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Code GIF">
   <img width="500" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Typing GIF">
-  <img width="500" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Space Coding GIF">
 </p>
 
 
